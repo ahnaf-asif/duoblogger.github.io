@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://duoblogger.github.io/"
-title: Type on Strap # site's title
+title: Duoblogger # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 defaults:
@@ -26,14 +26,14 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: coderbloger@gmail.com
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook:https://www.facebook.com/groups/352541508793545/
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "duoblogger"
   google_plus:
   instagram:
   keybase:
