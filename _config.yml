@@ -20,7 +20,7 @@ theme_settings:
 
   # Header and footer text
   header_text: Change header text in <code>_config.yml</code>
-  header_feature_image: assets/img/pexels/triangular.jpeg
+  header_feature_image: assets/img/pexels/header_image
   footer_text: >
     Powered by Munim Hasan Wasi and Ahnaf Shahriar Asif
 
