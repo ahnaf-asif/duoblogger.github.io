@@ -92,15 +92,15 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # AUTHORS
-authors: Ahnaf Shahriar Asif and Munim Hasan Wasi 
-  mhagnumdw: # author-id
-    name: MhagnumDw
+authors: 
+  asifthen00b: # author-id
+    name: Ahnaf Shahriar Asif
     avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-    url: 
-  sylhare:
-    name: Sylhare
+    url: "https://github.com/asifthen00b"
+  HBK_Wasi:
+    name: Munim Hasan Wasi
     avatar: "assets/img/avatars/sylhare_avatar.png"
-    url: "https://github.com/sylhare"
+    url: "https://github.com/HBK_wasi"
 
 # PORTFOLIO
 collections:
