@@ -19,10 +19,10 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: #<i>Coder <br> Blogger</i>
+  header_text: Change header text in <code>_config.yml</code>
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    Powered by HBK_Wasi & asifthen00b
+    Powered by Munim Hasan Wasi and Ahnaf Shahriar Asif
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -92,15 +92,15 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # AUTHORS
-authors: 
+authors:
   asifthen00b: # author-id
-    name: Ahnaf Shahriar Asif
+    name: Ahnaf Shahriar Asif 
     avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
     url: "https://github.com/asifthen00b"
   HBK_Wasi:
     name: Munim Hasan Wasi
     avatar: "assets/img/avatars/sylhare_avatar.png"
-    url: "https://github.com/HBK_wasi"
+    url: "https://github.com/sylhare"
 
 # PORTFOLIO
 collections:
