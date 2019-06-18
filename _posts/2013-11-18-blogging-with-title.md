@@ -12,7 +12,7 @@ Search should be working even for complicated escape symbols
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
-int main()
+int main()asd
 {
   printf("Hell");
   return 0;
