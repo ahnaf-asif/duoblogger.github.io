@@ -19,7 +19,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: |+ 
+  header_text: >
     Duo Blogger 
   
     Learn,Teach and Share
