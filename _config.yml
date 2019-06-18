@@ -19,7 +19,11 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: "Duo Blogger\nLearn,Teach and Share"
+  header_text: |+ 
+    Duo Blogger 
+  
+    Learn,Teach and Share
+  
   header_feature_image: assets/img/pexels/hello.png
   footer_text: >
     Powered by Munim Hasan Wasi and Ahnaf Shahriar Asif
