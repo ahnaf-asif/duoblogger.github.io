@@ -20,7 +20,7 @@ theme_settings:
 
   # Header and footer text
   header_text: <i>Coder <br> Blogger</i>
-  header_feature_image: assets/img/pexels/triangular.jpeg
+  header_feature_image: assets/img/pexels/theme.jpg
   footer_text: >
     Powered by HBK_Wasi & asifthen00b
 
