@@ -23,7 +23,7 @@ theme_settings:
   
   header_feature_image: assets/img/pexels/hello.png
   footer_text: >
-    Powered by [Munim Hasan Wasi](https://www.facebook.com/HBKWasi) and [Ahnaf Shahriar Asif](https://www.facebook.com/ahnaf.shahriar.7121)
+    Powered by Munim Hasan Wasi and Ahnaf Shahriar Asif
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
