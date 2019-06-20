@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hudai Checking
+tags: [DP]
+---
+
 # Hello World
 
 ```c++
