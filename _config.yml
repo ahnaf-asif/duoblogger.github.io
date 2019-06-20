@@ -23,7 +23,7 @@ theme_settings:
   
   header_feature_image: assets/img/pexels/hello.png
   footer_text: >
-    Powered by Munim Hasan Wasi and Ahnaf Shahriar Asif
+    Powered by [Munim Hasan Wasi](https://www.facebook.com/HBKWasi) and [Ahnaf Shahriar Asif](https://www.facebook.com/ahnaf.shahriar.7121)
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -101,7 +101,7 @@ authors:
   HBK_Wasi:
     name: Munim Hasan Wasi
     avatar: "assets/img/avatars/sylhare_avatar.png"
-    url: "https://github.com/sylhare"
+    url: "https://github.com/HBKWasi"
 
 # PORTFOLIO
 collections:
