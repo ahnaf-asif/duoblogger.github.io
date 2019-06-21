@@ -19,7 +19,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Learn,Teach and Share
+  header_text: Programming Throwdown
   
   header_feature_image: assets/img/pexels/hello.jpg
   footer_text: >
