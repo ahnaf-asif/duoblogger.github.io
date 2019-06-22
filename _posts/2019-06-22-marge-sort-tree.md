@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Marge Sort Tree
+title: Marge Sort Tree (MST)
 author-id: HBKWasi
 tags: [Data Structures]
 ---
 <!-- This is also a comment in markdown -->
-
-## Marge Sort Tree (MST)
 
 এই আর্টিকেলটি পড়ার পূর্বশর্ত: সেগমেন্ট ট্রি, মার্জ সর্ট এলগোরিদম, বাইনারী সার্চ সম্পর্কে ধারণা থাকতে হবে। না থাকলে এই লিংকগুলো থেকে শিখে নাও:-
 
