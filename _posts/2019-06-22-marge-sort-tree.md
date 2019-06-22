@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marge Sort Tree (MST)
-author-id: HBKWasi
+author-id: HBK_Wasi
 tags: [Data Structures]
 ---
 <!-- This is also a comment in markdown -->
