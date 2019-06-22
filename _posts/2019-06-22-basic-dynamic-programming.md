@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic Dynamic Programming
-author: asifthen00b
+author-id: asifthen00b
 tags: [Dynamic Programming]
 ---
 <!-- This is also a comment in markdown -->
