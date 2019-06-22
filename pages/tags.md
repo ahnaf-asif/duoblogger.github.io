@@ -1,7 +1,7 @@
 ---
 layout: tags
-title: Tags
+title: Category
 permalink: /tags/
-icon: "fa-tags"
 ---
+[comment]: <> (if We want to use icons, we can use "fa-tags", just include icon = "fa-tags")
 

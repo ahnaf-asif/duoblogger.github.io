@@ -24,7 +24,7 @@ theme_settings:
   header_feature_image: assets/img/pexels/hello.jpg
   footer_text: >
     Powered by Munim Hasan Wasi and Ahnaf Shahriar Asif
-
+    
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
   email_address: coderbloger@gmail.com
