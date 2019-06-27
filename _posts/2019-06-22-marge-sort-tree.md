@@ -2,7 +2,7 @@
 layout: post
 title: Marge Sort Tree (MST)
 author-id: HBK_Wasi
-tags: [Data Structures]
+tags: [Data Structures, Sorting]
 ---
 <!-- This is also a comment in markdown -->
 
