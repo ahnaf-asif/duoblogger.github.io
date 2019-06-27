@@ -10,7 +10,7 @@ tags: [Data Structures]
 
 [সেগমেন্ট ট্রি](http://www.shafaetsplanet.com/?p=1557)
 
-[মার্জ সর্ট](https://roomcharshotin.wordpress.com/2018/09/26/merge-sort-details/)
+[মার্জ সর্ট](https://duoblogger.github.io/2019/06/26/marge-sort.html)
 
 [বাইনারী সার্চ](http://www.shafaetsplanet.com/?p=2279)
 
