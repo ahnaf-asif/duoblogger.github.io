@@ -65,6 +65,10 @@ printf("The Answer Is: %d\n",ans);
 
 এই কোডের কম্প্লেক্সিটি $$O(n\times k^2)$$ ।  
 
+এখন সামনের দিকে যাওয়ার আগে [Knapsack](http://www.shafaetsplanet.com/?p=1072),[coin change,rock climbing](http://www.shafaetsplanet.com/?p=1158),[LIS](http://www.shafaetsplanet.com/?p=1211),[LCS](http://www.shafaetsplanet.com/?p=1862) একটু দেখে নাও। 
+
+ 
+
 
 
 
