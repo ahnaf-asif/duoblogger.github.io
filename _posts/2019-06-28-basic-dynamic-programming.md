@@ -1,8 +1,5 @@
 ---
-layout: post
-title: Basic Dynamic Programming
-author-id: asifthen00b
-tags: [Dynamic Programming]
+
 ---
 
 [comment]: <> "this is a comment"
@@ -138,9 +135,14 @@ printf("Answer is: %d\n",max(dp[0][n-1][m-1],dp[1][n-1][m-1]));
 
 ### Practice Problems <a name="practice1problems"></a>
 
-| [Frog1](https://atcoder.jp/contests/dp/tasks/dp_a) |    [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)     |      [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b)      |      [grid1](https://atcoder.jp/contests/dp/tasks/dp_h)      |
-| :------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  [LCS](https://atcoder.jp/contests/dp/tasks/dp_f)  | [Rooks](http://lightoj.com/volume_showproblem.php?problem=1005) | [Marriage](http://lightoj.com/volume_showproblem.php?problem=1011) | [Neighbour House](http://lightoj.com/volume_showproblem.php?problem=1047) |
+* [Frog1](https://atcoder.jp/contests/dp/tasks/dp_a)
+* [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
+* [Frog2](https://atcoder.jp/contests/dp/tasks/dp_b)
+* [grid1](https://atcoder.jp/contests/dp/tasks/dp_h)
+* [LCS](https://atcoder.jp/contests/dp/tasks/dp_f)
+* [Rooks](http://lightoj.com/volume_showproblem.php?problem=1005)
+* [Marriage](http://lightoj.com/volume_showproblem.php?problem=1011)
+* [Neighbour House](http://lightoj.com/volume_showproblem.php?problem=1047)
 
 ### Important Tip <a name="tip1"></a>
 
