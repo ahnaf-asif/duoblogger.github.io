@@ -143,6 +143,7 @@ printf("Answer is: %d\n",max(dp[0][n-1][m-1],dp[1][n-1][m-1]));
 * [Rooks](http://lightoj.com/volume_showproblem.php?problem=1005)
 * [Marriage](http://lightoj.com/volume_showproblem.php?problem=1011)
 * [Neighbour House](http://lightoj.com/volume_showproblem.php?problem=1047)
+* [monkey banana problem](http://www.lightoj.com/volume_showproblem.php?problem=1004)
 
 ### Important Tip <a name="tip1"></a>
 
