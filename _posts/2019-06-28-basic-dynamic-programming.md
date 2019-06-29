@@ -1,5 +1,8 @@
 ---
-
+layout: post
+title: Basic Dynamic Programming
+author-id: asifthen00b
+tags: [Dynamic Programming]
 ---
 
 [comment]: <> "this is a comment"
