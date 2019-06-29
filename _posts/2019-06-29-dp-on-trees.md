@@ -9,6 +9,7 @@ tags: [Dynamic Programming, Trees]
 ## Table Of Contents
 
 * [Introduction](introduction)
+* [Problem 1](#problem1)
 * [Problem 2](#problem2)
 
 ## Introduction <a name="introduction"></a>
@@ -36,7 +37,22 @@ tags: [Dynamic Programming, Trees]
 
 ![tree-dp-1]({{ "/assets/img/posts_images/tree_dp_1.png" | relative_url}})
 
+ছবিটি খুব ভালো করে খেয়াল করলে বাকিটা বুঝতে অসুবিধা হবেনা। কোডটা নিজে করার চেষ্টা করো। আমি নিচে দিয়ে দিচ্ছি তাও। 
 
+``` c++
+void dfs(int node,int par){
+    dp[0][node] = 0;
+    dp[1][node] = cost[node];
+    for(auto v: graph[node]){
+        if(v != par){
+    		dfs(v,node);
+            dp[0][node] += max({dp[1][v],dp[0][v],0});
+            dp[1][node] += max(dp[0][v],0);
+        }
+    }
+}
+// print max(dp[0][1],dp[1][1]);
+```
 
 
 
