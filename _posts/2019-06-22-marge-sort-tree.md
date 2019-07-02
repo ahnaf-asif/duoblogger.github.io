@@ -67,3 +67,4 @@ int query( int cur, int l, int r, int x, int y, int k)
 [Anton and Permutation](http://codeforces.com/contest/785/problem/E)
 [KQUERYO](https://www.spoj.com/problems/KQUERYO/)
 এর মাধ্যমেই আমার মার্জ সর্ট ট্রি নিয়ে বিরক্তিকর ক্যাচক্যাচানি শেষ হল।  🙂
+
