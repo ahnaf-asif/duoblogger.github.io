@@ -21,7 +21,7 @@ tags: [Dynamic Programming]
 * [Problem 3](#problem3)
 * [Practice Problem Section 2](#practice2)
 
-## Introduction <a name = "Introduction"></a>
+## Introduction <a name="Introduction"></a>
 
 আমরা ডাইনামিক প্রোগ্রামিংয়ের সাথে মোটামুটি সবাই পরিচিত। আজকে ডিপি নিয়ে কিছু বেসিক আলোচনা করবো। আশা করি উপকারে আসবে। তবে পোস্টটি অবশ্যই সবার জন্য না, যারা ডিপি কিছুটা পারেন কিন্তু প্রব্লেম সল্ভ করতে কষ্ট হচ্ছে বা কীভাবে প্রব্লেম অ্যাপ্রোচ করতে হবে সেটা বুঝে উঠতে পারছেন না, পোস্টটি তাদের জন্য। আশা করি এই পোস্টটি ভালো করে বুঝে পড়লে সমস্যাগুলোর সমাধান কিছুটা সহজ হয়ে যাবে। আমি এখানে স্ট্রাটেজি নিয়েও কিছু কথা বলার চেষ্টা করবো, যদিও এই জিনিসগুলো সবারই জানা থাকার কথা। 
 
@@ -182,7 +182,7 @@ printf("Answer is: %d\n",max(dp[0][n-1],dp[1][n-1]));
 
 * [Casers Legions](https://codeforces.com/problemset/problem/118/D)
 
-* [UVA 11331](https://uva.onlinejudge.org/external/113/p11331.pdf) ( <font color="red">Hint: Bicoloring+knapsack</font> )
+* [UVA 11331](https://uva.onlinejudge.org/external/113/p11331.pdf) ( <font color="green">Hint: Bicoloring+knapsack</font> )
 
   
 
