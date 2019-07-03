@@ -8,8 +8,6 @@ tags: [Dynamic Programming]
 [comment]: <> "this is a comment"
 <!-- This is also a comment in markdown -->
 
-## Table Of Contents
-
 * [Introduction](#Introduction)
 * [Dp States](#dp_states)
 * [Problem 1](#Problem1)
@@ -21,6 +19,7 @@ tags: [Dynamic Programming]
 * [Practice Problem section 1](#practice1problems)
 * [Important Tip 1](#tip1)
 * [Problem 3](#problem3)
+* [Practice Problem Section 2](#practice2)
 
 ## Introduction <a name = "Introduction"></a>
 
@@ -175,13 +174,17 @@ printf("Answer is: %d\n",max(dp[0][n-1],dp[1][n-1]));
 
 ```
 
-to be continued...
+## Practice  Problems <a name="practice2"></a>
 
+* [Atcoder Dp Contest](https://atcoder.jp/contests/dp/tasks)
 
+* [Light Oj Dp Section](http://lightoj.com/volume_problemcategory.php?user_id=43745&category=Dynamic%20Programming)
 
- 
+* [Casers Legions](https://codeforces.com/problemset/problem/118/D)
 
+* [UVA 11331](https://uva.onlinejudge.org/external/113/p11331.pdf) ( <font color="red">Hint: Bicoloring+knapsack</font> )
 
+  
 
 
 

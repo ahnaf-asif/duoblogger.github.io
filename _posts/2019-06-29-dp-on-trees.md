@@ -6,8 +6,6 @@ tags: [Dynamic Programming, Trees]
 
 ---
 
-## Table Of Contents
-
 * [Introduction](introduction)
 * [Problem 1](#problem1)
   * [Variant 1](#problem1variant1)
