@@ -6,12 +6,12 @@ tags: [Dynamic Programming, Trees]
 
 ---
 
-* [Introduction](introduction)
+* [Introduction](#introduction)
 * [Problem 1](#problem1)
   * [Variant 1](#problem1variant1)
 * [Problem 2](#problem2)
 
-## Introduction <a name="introduction"></a>
+## Introduction <a name="Introduction"></a>
 
 আমরা আশা করি প্রাথমিক ডিপি বেশ ভালোভাবেই পারি, ডিপির স্টেট বেরকরতে পারি, ডিপি রিকার্শন বেরকরতে পারি। যদি তুমি না পারো তাহলে [এটি](https://duoblogger.github.io/2019/06/28/basic-dynamic-programming.html) দেখতে পারো। এরপর আমরা সামনের দিকে আগাবো। নরমাল ডিপি আমরা অ্যারে এর উপর করেছি। এবার একই জিনিস ট্রি এর উপর করবো। খুবই সাধারণ ব্যাপার। আমরা খুব কঠিনভাবে শুরু করবোনা অবশ্যই, তবে ট্রি ডিপির অনেক অনেক কঠিন প্রব্লেম আছে। আমরা আস্তে আস্তে সেগুলো সমাধান করতে শিখবো। কথা না বাড়িয়ে চলো শুরু করা যাক। 
 
